@@ -1,4 +1,4 @@
-# WhiteCarrot Intern Assignment
+
 In this exercise, you are given an existing code-base for a simple Movies application. You are expected to go over the items in the [Evaluation](#evaluation) section, make your changes in this repository, and follow the instructions in the [Submission](#submission) section to submit.
 
 As a user you should be able to search by movie name and mark it as favourite movie. The current application is half done. As part of this assignment you will improve the application to make it usable.
